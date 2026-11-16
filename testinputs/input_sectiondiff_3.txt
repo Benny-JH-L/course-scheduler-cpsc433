@@ -1,0 +1,26 @@
+Name:
+use penalty val of section diff = 10 and weight = 1, should have 30 penalty (cpsc 231: lec 1 collides with lec 2, lec 2 collides with lec 3 and lec 3 collides with lec 1)
+
+
+Lecture slots:
+MO, 9:00, 5, 1,5
+
+Tutorial slots:
+
+Lectures:
+CPSC 231 LEC 01,true
+CPSC 231 LEC 02,true
+CPSC 231 LEC 03,true
+CPSC 355 LEC 01,true
+
+Tutorials:
+
+Not compatible:
+
+Unwanted:
+
+Preferences:
+
+Pair:
+
+Partial assignments:

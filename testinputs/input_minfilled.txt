@@ -1,0 +1,25 @@
+Name:
+(lectures) min filled (use penalty val (both lec and tut) = 10 and weight = 1), should have 0 penalty
+
+Lecture slots:
+MO, 8:00, 3, 2, 3
+MO, 9:00, 3, 1, 3
+
+Tutorial slots:
+
+Lectures:
+CPSC 231 LEC 01,true
+CPSC 231  LEC 02,true
+SENG 300 LEC 01, false
+
+Tutorials:
+
+Not compatible:
+
+Unwanted:
+
+Preferences:
+
+Pair:
+
+Partial assignments:

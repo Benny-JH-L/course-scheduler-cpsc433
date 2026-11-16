@@ -1,0 +1,27 @@
+Name:
+Active_living_should_pass
+
+Lecture slots:
+MO, 8:00, 3, 2, 1
+MO, 9:00, 3, 2, 1
+
+Tutorial slots:
+TU, 10:00,2,1,2
+FR, 10:00, 2, 1,0
+
+Lectures:
+CPSC     231 LEC 01,true
+CPSC 231  LEC 02,true
+SENG 300 LEC 01, false
+
+Tutorials:
+
+Not compatible:
+
+Unwanted:
+
+Preferences:
+
+Pair:
+
+Partial assignments:

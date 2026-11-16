@@ -1,0 +1,33 @@
+Name:
+input_pair
+
+Lecture slots:
+MO, 5:00, 2, 2, 2
+TU, 2:00, 2, 2, 2
+
+Tutorial slots:
+MO, 5:00, 4,2,4
+TU, 6:00, 4,2,4
+
+Lectures:
+CPSC 599 LEC 01,false
+CPSC 251  LEC 01,false
+CPSC 251  LEC 02,false
+
+Tutorials:
+CPSC 599 LEC 01 TUT 01,false
+CPSC 251 LEC 01 TUT 01,false
+
+Not compatible:
+
+
+Unwanted:
+
+
+Preferences:
+
+
+Pair:
+CPSC 599 LEC 01, CPSC 251 LEC 02
+
+Partial assignments:

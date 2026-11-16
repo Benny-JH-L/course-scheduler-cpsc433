@@ -1,0 +1,30 @@
+Name:
+Test5xxLecs_NO_SCHEDULE_POSSIBLE
+
+Lecture slots:
+MO, 5:00, 2, 2, 2
+
+Tutorial slots:
+MO, 5:00, 4,                     2,4
+
+Lectures:
+CPSC     599 LEC 01,true
+CPSC 599  LEC 02,true
+
+Tutorials:
+CPSC 599 LEC 01 TUT 01,true
+CPSC 599 LEC 02 TUT 02,true
+
+Not compatible:
+
+
+Unwanted:
+CPSC 599 LEC 01, MO, 12:00
+
+Preferences:
+
+
+Pair:
+
+
+Partial assignments:
