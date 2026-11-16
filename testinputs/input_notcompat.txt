@@ -1,0 +1,25 @@
+Name:
+no schedule possible (FRIDAY tut goes from 8-10 am and lec goes from Monday, wednesday, AND FRIDAY from 9-10 am, so there is a overlap!, eval does not matter for this test)
+
+Lecture slots:
+MO, 9:00, 3, 1,3
+
+Tutorial slots:
+FR, 8:00, 2, 1,2
+
+Lectures:
+CPSC 231 LEC 01,true
+
+Tutorials:
+CPSC 231 LEC 01 TUT 01,true
+
+Not compatible:
+CPSC 231 LEC 01 TUT 01, CPSC 231 LEC 01
+
+Unwanted:
+
+Preferences:
+
+Pair:
+
+Partial assignments:

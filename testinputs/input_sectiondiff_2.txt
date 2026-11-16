@@ -1,0 +1,24 @@
+Name:
+use penalty val of section diff = 10 and weight = 1, should have 10 penalty
+
+
+Lecture slots:
+MO, 9:00, 3, 1,3
+
+Tutorial slots:
+
+Lectures:
+CPSC 231 LEC 01,true
+CPSC 231 LEC 02,true
+
+Tutorials:
+
+Not compatible:
+
+Unwanted:
+
+Preferences:
+
+Pair:
+
+Partial assignments:

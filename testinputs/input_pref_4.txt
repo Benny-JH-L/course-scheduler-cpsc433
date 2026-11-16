@@ -1,0 +1,33 @@
+Name:
+Test_pref_0_eval: use these weight: 1 1 1 1 0 0 0 0   
+
+Lecture slots:
+MO, 8:00, 1, 1, 2
+MO, 9:00, 3,2,1
+
+Tutorial slots:
+MO, 8:00, 4,                     2,4
+TU, 10:00, 4, 1, 4
+
+Lectures:
+CPSC     231 LEC 01,true
+
+Tutorials:
+CPSC 231 LEC 01 TUT 01,true
+CPSC 231 LEC 01 LAB 02,true
+
+Not compatible:
+
+
+Unwanted:
+
+
+Preferences:
+TU, 9:30, CPSC 231 LEC 01, 15
+MO, 8:00, CPSC 231 LEC 01 TUT 01, 3
+FR, 10:00, CPSC 231 LEC 01 LAB 02, 5
+
+Pair:
+
+
+Partial assignments:

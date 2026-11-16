@@ -1,0 +1,42 @@
+Name:
+Test_pref_8215_eval
+
+Lecture slots:
+MO, 8:00, 1, 1, 1
+MO, 9:00, 1, 1, 1
+MO, 10:00, 1, 1, 1
+
+Tutorial slots:
+MO, 5:00, 4,2,4
+
+Lectures:
+CPSC 231 LEC 01,true
+CPSC 678 LEC 01,true
+CPSC 399 LEC 01,true
+
+Tutorials:
+
+Not compatible:
+
+
+Unwanted:
+
+
+Preferences:
+MO, 8:00, CPSC 231 LEC 01, 10
+MO, 9:00, CPSC 231 LEC 01, 5
+MO, 10:00, CPSC 231 LEC 01, 2
+
+MO, 8:00, CPSC 678 LEC 01, 1000
+MO, 9:00, CPSC 678 LEC 01, 500
+MO, 10:00, CPSC 678 LEC 01, 200
+
+MO, 8:00, CPSC 399 LEC 01, 10000
+MO, 9:00, CPSC 399 LEC 01, 5000
+MO, 10:00, CPSC 399 LEC 01, 2000
+
+
+Pair:
+
+
+Partial assignments:
